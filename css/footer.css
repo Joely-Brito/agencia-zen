@@ -8,16 +8,22 @@ footer {
   margin: 0 auto;
 }
  
-.rodapeA{
+.rodape-sem-imagens{
   display: flex;
-  margin: 0;
+  margin-left: .5em;
+  margin-right: .5em;
   align-items: flex-start;
   justify-content: space-around;
 }
- 
-.colunasFooter{
+
+.rodape-sem-imagens a:hover{
+  opacity: 0.5;
+}
+
+.colunas-footer{
   display: flex;
   flex-direction: column;
+  margin: .5em;
 }
 
 .coluna-interna h4 {
@@ -37,7 +43,7 @@ footer {
   color:#000;
 }
 
-.rodapeB{
+.rodape-com-imagens{
   display: flex;
   justify-content:space-around;
   border-top: solid #000 1px;
@@ -53,37 +59,44 @@ footer {
   padding: 0 1em;
 }
 
-.formasPagamento{
+.formas-pagamento{
   display: flex;
   align-items: center;
   flex-direction: column;
   width: 50%;
 }
 
-.redesSociais{
+.redes-sociais{
   display: flex;
   align-items: center;
   flex-direction: column;
   width: 50%;
 }
 
-.redesSociais p, .formasPagamento p {
+.redes-sociais p, .formas-pagamento p {
   margin: 2em 0;
 }
 
 .footer-social-icons {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   width: 100%;
   min-height: 35px;
 }
 
+.social-icon:hover{
+  opacity: 0.5;
+
+}
+
 .footer-pagamento-icons {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
   flex-direction: row;
   width: 100%;
   min-height: 35px;
@@ -91,8 +104,15 @@ footer {
 
 .copyright{
   color: gray;
-  padding: 15px;
+  padding: 1em;
   text-align: center;
-  margin: 50px;
+  margin: 4em;
   border-top: 0.3px solid #00000044;
+}
+
+@media only screen and (max-width: 767px){
+  .rodape-sem-imagens{
+    display: block;
+    text-align: center;     
+  }
 }
