@@ -8,9 +8,11 @@ Projeto feito para a primeira semana de desafios do Programa Desenvolve do Grupo
 
 ## Feito com :rocket:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Utilizado para a estruturação do site
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Utilizado para a estilização da página
-- [Figma](https://www.figma.com/file/JgXaAcnjGzyFAvSYc3mphj/Omaitopy---Ag%C3%AAncia-de-Viagens-Zem-team-library?node-id=0%3A1) - Utilizado para Prototipação do layout
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> Utilizado para a estruturação do site
+    <br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> Utilizado para a estilização da página
+    <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><a href="https://www.figma.com/file/JgXaAcnjGzyFAvSYc3mphj/Omaitopy---Ag%C3%AAncia-de-Viagens-Zem-team-library?node-id=0%3A1"> Utilizado para Prototipação do layout
 
 ## Landing page
 
