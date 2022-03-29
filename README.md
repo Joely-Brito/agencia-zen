@@ -8,11 +8,13 @@ Projeto feito para a primeira semana de desafios do Programa Desenvolve do Grupo
 
 ## Feito com :rocket:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> Utilizado para a estruturação do site
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>Utilizado para a estruturação do site
     <br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> Utilizado para a estilização da página
     <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><a href="https://www.figma.com/file/JgXaAcnjGzyFAvSYc3mphj/Omaitopy---Ag%C3%AAncia-de-Viagens-Zem-team-library?node-id=0%3A1"> Utilizado para Prototipação do layout
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  </a>Utilizado para a estilização da página
+    <br>
+    <br>
+<a href="https://www.figma.com/file/JgXaAcnjGzyFAvSYc3mphj/Omaitopy---Ag%C3%AAncia-de-Viagens-Zem-team-library?node-id=0%3A1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a> Utilizado para Prototipação do layout
 
 ## Landing page
 
